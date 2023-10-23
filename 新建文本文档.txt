@@ -1,0 +1,32 @@
+人工-p4-2306b-杨振豪-day1
+EUmhQxs;r8zh
+alter user root@localhost identified by
+mysql -uroot -p666666 work < insert.txt
+git config --global user.name "inia123"
+git config --global user.email "1960116542@qq.com"
+
+ssh-rsa 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCghKgEVbWgwPxbJP0Dpda4T+TsrqTujtty8KB2OAl0
+MwKxQaBk5ulIVdEeAAlluZhumFdclJys0rDNo8brizCwpO9OvBga1BI8j4vmUPWBkzTs9RWteqOD2FXl
+AMYok7pmDXx40ELsonkJW9HSpXbTPBeBdHgCVupNvkMbvYb+KIQwyXzHnNEjH2bgbWmd3ywGv8/ybEhH
+XsBy7FRwKyKAy+d/YUMjMM+7EF12v2V0hzrDVrICziJA1uXRWr47m7wBcHjwuq82QLdPfZfIeCQsBY37
+cLm5Drduq5hCcalz64P0WXWTpwyjvvzmuYZrwSEHSUTGioKyCmnYca4Bso6GfFChcxuVsQcwV9E12RI8
+Ud0ZR8xPM4NVSIDLNXeJu+kkV2zfNa986gdPz6BIUtChjt0PI8Zq3NpFFFbdW8iD/K/6ahetqHUdnfeR
+H1CovwXNcNFvVz2wV9HX/fRHWWB+mMJUzZyuHoDjO4rZ80sSNz423UcP/HRWhtBS3j7Ao3M= 1960116
+542@qq.com
+
+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
+
+
+POP3/IMAP/SMTP/Exchange/CardDAV 服务已开启
+在第三方客户端登录时，密码框请输入以下授权码：
+nltkfhdahsqmddaf
+
+ITSDJRMJRZYLTBPS
+
+
+
+POP3/IMAP/SMTP/Exchange/CardDAV 服务已开启
+在第三方客户端登录时，密码框请输入以下授权码：
+uhbleyweljnzbcii
+
